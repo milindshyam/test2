@@ -1,1 +1,1 @@
-this is an init test
+this is the init test
